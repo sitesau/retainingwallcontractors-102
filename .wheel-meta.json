@@ -1,0 +1,22 @@
+{
+  "wheel_id": 576,
+  "structure": "umbrella",
+  "slug": "retainingwallcontractors-102",
+  "project": "retaining-wall-contractors-brisbane-signs-you-need-b227a3986",
+  "parent_t1_ref": "retainingwallcontractors-150",
+  "node_role": "feeder",
+  "money_target": "retainingwallcontractors.com.au",
+  "primary_kw": "retaining wall contractors brisbane signs you need",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/retaining-wall-contractors-brisbane-signs-you-need-b227a3986/",
+  "tier": "T2",
+  "writeback_nonce": "59e610fd031a2be3",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-contractors-brisbane-how-to-choose-daed7e270d6b2.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the retaining wall contractors brisbane how to choose overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
